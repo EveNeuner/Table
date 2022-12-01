@@ -2,3 +2,16 @@ table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
 }
+
+body {
+    background-color: paleturquoise;
+}
+
+table {
+    background-color: rgb(227, 219, 207);
+}
+
+.table {
+    margin-left: auto;
+    margin-right: auto;
+}
